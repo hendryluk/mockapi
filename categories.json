@@ -1,0 +1,10 @@
+[{
+	"name": "Home",
+    "icon": "home",
+    "contents": "/content/home.json"
+},
+{
+	"name": "News",
+    "icon": "globe",
+    "contents": "/content/news.json"
+}]

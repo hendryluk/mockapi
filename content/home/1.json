@@ -1,0 +1,10 @@
+{
+    "name": "Jim's Report",
+	"properties": [
+        {"label": "Created", "value": "Yesterday morning"},
+        {"label": "Author", "value": "Jim Peletier"},
+        {"label": "Filename", "value": "JimReport.pdf"},
+        {"label": "Version", "value": "1.2"}
+	],
+	"document": "/content/home/1.pdf"
+}
