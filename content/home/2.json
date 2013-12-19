@@ -1,0 +1,10 @@
+{
+    "name": "Henders Report",
+	"properties": [
+        {"label": "Created", "value": "Last Month"},
+        {"label": "Author", "value": "Henders"},
+        {"label": "Filename", "value": "HendersReport.pdf"},
+        {"label": "Version", "value": "1.2"}
+	],
+	"document": "/content/home/2.pdf"
+}

@@ -1,18 +1,18 @@
 [{
 	"name": "Home",
     "icon": "home",
-    "contents": "/content/home.json",
-    "type": "pdf"
+    "url": "/content/home.json",
+    "type": "folder"
 },
 {
 	"name": "News",
     "icon": "globe",
-    "contents": "/content/news.json",
-    "type": "pdf"
+    "url": "/content/news.json",
+    "type": "folder"
 },
 {
     "name": "Art",
     "icon": "featured",
-    "contents": "/content/art.json",
-    "type": "image"
+    "url": "/content/art.json",
+    "type": "gallery"
 }]
