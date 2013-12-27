@@ -17,5 +17,5 @@
 {"name": "Say Something", "url": "/content/home/2.json", "type": "pdf"},
 {"name": "Get Smart", "url": "/content/home/2.json", "type": "pdf"},
 {"name": "Lorem Ipsum 2.0", "url": "/content/home/2.json", "type": "pdf"},
-{"name": "Hard to Die", "url": "/content/home/2.json"}
+{"name": "Hard to Die", "url": "/content/home/2.json", "type": "pdf"}
 ]
