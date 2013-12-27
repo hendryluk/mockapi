@@ -1,7 +1,7 @@
 [
-{"name": "Jim Report", "url": "/content/home/1.json", "type": "pdf", "type": "pdf"},
-{"name": "Henders Report", "url": "/content/home/2.json", "type": "pdf"},
-{"name": "Blah blah", "url": "/content/home/2.json", "type": "pdf"},
-{"name": "Lorem Ipsum", "url": "/content/home/2.json", "type": "pdf"},
-{"name": "Vivat Academia", "url": "/content/home/2.json", "type": "pdf"}
+{"name": "Jim Report", "url": "/content/home/1.json", "type": "pdf", "download": "http://www.immi.gov.au/media/publications/research/_pdf/settlement-outcomes-new-arrivals.pdf", "type": "pdf", "download": "http://www.immi.gov.au/media/publications/research/_pdf/settlement-outcomes-new-arrivals.pdf"},
+{"name": "Henders Report", "url": "/content/home/2.json", "type": "pdf", "download": "http://www.immi.gov.au/media/publications/research/_pdf/settlement-outcomes-new-arrivals.pdf"},
+{"name": "Blah blah", "url": "/content/home/2.json", "type": "pdf", "download": "http://www.immi.gov.au/media/publications/research/_pdf/settlement-outcomes-new-arrivals.pdf"},
+{"name": "Lorem Ipsum", "url": "/content/home/2.json", "type": "pdf", "download": "http://www.immi.gov.au/media/publications/research/_pdf/settlement-outcomes-new-arrivals.pdf"},
+{"name": "Vivat Academia", "url": "/content/home/2.json", "type": "pdf", "download": "http://www.immi.gov.au/media/publications/research/_pdf/settlement-outcomes-new-arrivals.pdf"}
 ]
