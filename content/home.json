@@ -1,6 +1,6 @@
 [
-{"name": "Some reports", "url": "/content/home/someReports.json", type: "folder"},
-{"name": "More reports", "url": "/content/home/moreReports.json", type: "folder"},
+{"name": "Some reports", "url": "/content/home/someReports.json", "type": "folder"},
+{"name": "More reports", "url": "/content/home/moreReports.json", "type": "folder"},
 {"name": "Cool Latin Words", "url": "/content/home/2.json", "type": "pdf"},
 {"name": "Say Something Latin Here", "url": "/content/home/2.json", "type": "pdf"},
 {"name": "Bubah Bubah", "url": "/content/home/2.json", "type": "pdf"},
